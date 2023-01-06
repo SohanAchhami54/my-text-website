@@ -1,15 +1,13 @@
-*
-{
+*{
     margin:0;
     padding:0;
 }
 
-body
-{
+body{
     background-color: red;
-    
+
 }
-h1
-{
+
+h1{
     color:aquamarine;
 }
