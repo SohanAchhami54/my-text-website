@@ -11,3 +11,17 @@ body{
 h1{
     color:aquamarine;
 }
+
+h2
+{
+    color:navajowhite;
+}
+
+.my-column
+{
+    background-color:brown;
+    text-align:center;
+    min-height:100px;
+     margin-bottom:35px; 
+    color:red;
+}
