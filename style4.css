@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: white;
+    padding: 25px 0;
+    box-shadow: 1px 1px 10px -5px #000;
+}
+
+.header ul li {
+    display: inline-block;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 30px;
+}
+
+
+.header ul li:last-child a {
+    background: red;
+    border-radius: 4px;
+}
+
+/*
+.header ul li:nth-child(even) a {
+    background-color: red;
+} */
